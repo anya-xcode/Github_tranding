@@ -1,0 +1,165 @@
+2026-04-25 03:06:09,970 - INFO - ============================================================
+2026-04-25 03:06:09,970 - INFO - GitHub Trending Repository Scraper Started
+2026-04-25 03:06:09,970 - INFO - ============================================================
+2026-04-25 03:06:13,556 - INFO - WebDriver initialized successfully (Headless: True)
+2026-04-25 03:06:13,557 - INFO - Scraping page 1: https://github.com/trending?since=daily
+2026-04-25 03:06:17,182 - INFO - Found 12 repositories on page 1
+2026-04-25 03:06:19,839 - INFO -   ✓ Fully Scraped: Alishahryar1 / free-claude-code
+2026-04-25 03:06:23,162 - INFO -   ✓ Fully Scraped: huggingface / ml-intern
+2026-04-25 03:06:27,242 - INFO -   ✓ Fully Scraped: google / osv-scanner
+2026-04-25 03:06:30,420 - INFO -   ✓ Fully Scraped: Z4nzu / hackingtool
+2026-04-25 03:06:34,354 - INFO -   ✓ Fully Scraped: zilliztech / claude-context
+2026-04-25 03:06:38,615 - INFO -   ✓ Fully Scraped: open-metadata / OpenMetadata
+2026-04-25 03:06:41,942 - INFO -   ✓ Fully Scraped: PostHog / posthog
+2026-04-25 03:06:45,344 - INFO -   ✓ Fully Scraped: dani-garcia / vaultwarden
+2026-04-25 03:06:49,384 - INFO -   ✓ Fully Scraped: Anil-matcha / Open-Generative-AI
+2026-04-25 03:06:52,532 - INFO -   ✓ Fully Scraped: codecrafters-io / build-your-own-x
+2026-04-25 03:06:56,187 - INFO -   ✓ Fully Scraped: deepseek-ai / DeepEP
+2026-04-25 03:06:59,388 - INFO -   ✓ Fully Scraped: microsoft / typescript-go
+2026-04-25 03:07:03,397 - INFO - Scraping page 2: https://github.com/trending?since=weekly
+2026-04-25 03:07:07,123 - INFO - Found 15 repositories on page 2
+2026-04-25 03:07:09,365 - INFO -   ✓ Fully Scraped: forrestchang / andrej-karpathy-skills
+2026-04-25 03:07:12,225 - INFO -   ✓ Fully Scraped: SimoneAvogadro / android-reverse-engineering-skill
+2026-04-25 03:07:17,576 - INFO -   ✓ Fully Scraped: lsdefine / GenericAgent
+2026-04-25 03:07:21,018 - INFO -   ✓ Fully Scraped: EvoMap / evolver
+2026-04-25 03:07:26,499 - INFO -   ✓ Fully Scraped: openai / openai-agents-python
+2026-04-25 03:07:31,386 - INFO -   ✓ Fully Scraped: Tracer-Cloud / opensre
+2026-04-25 03:07:35,230 - INFO -   ✓ Fully Scraped: multica-ai / multica
+2026-04-25 03:07:38,315 - INFO -   ✓ Fully Scraped: NousResearch / hermes-agent
+2026-04-25 03:07:41,751 - INFO -   ✓ Fully Scraped: thedotmack / claude-mem
+2026-04-25 03:07:45,100 - INFO -   ✓ Fully Scraped: mksglu / context-mode
+2026-04-25 03:07:48,108 - INFO -   ✓ Fully Scraped: deepseek-ai / DeepGEMM
+2026-04-25 03:07:51,556 - INFO -   ✓ Fully Scraped: jamiepine / voicebox
+2026-04-25 03:07:56,431 - INFO -   ✓ Fully Scraped: Lordog / dive-into-llms
+2026-04-25 03:08:00,442 - INFO - Scraping page 3: https://github.com/trending?since=monthly
+2026-04-25 03:08:04,063 - INFO - Found 19 repositories on page 3
+2026-04-25 03:08:06,880 - INFO -   ✓ Fully Scraped: luongnv89 / claude-howto
+2026-04-25 03:08:09,811 - INFO -   ✓ Fully Scraped: Yeachan-Heo / oh-my-codex
+2026-04-25 03:08:13,453 - INFO -   ✓ Fully Scraped: siddharthvaddem / openscreen
+2026-04-25 03:08:17,250 - INFO -   ✓ Fully Scraped: shiyu-coder / Kronos
+2026-04-25 03:08:24,473 - INFO -   ✓ Fully Scraped: HKUDS / DeepTutor
+2026-04-25 03:08:28,133 - INFO -   ✓ Fully Scraped: Fincept-Corporation / FinceptTerminal
+2026-04-25 03:08:33,013 - INFO -   ✓ Fully Scraped: google-ai-edge / gallery
+2026-04-25 03:08:36,509 - INFO -   ✓ Fully Scraped: coleam00 / Archon
+2026-04-25 03:08:43,941 - INFO -   ✓ Fully Scraped: microsoft / VibeVoice
+2026-04-25 03:08:47,034 - INFO -   ✓ Fully Scraped: microsoft / markitdown
+2026-04-25 03:08:50,398 - INFO -   ✓ Fully Scraped: google-ai-edge / LiteRT-LM
+2026-04-25 03:08:53,482 - INFO -   ✓ Fully Scraped: google-research / timesfm
+2026-04-25 03:08:56,569 - INFO -   ✓ Fully Scraped: rtk-ai / rtk
+2026-04-25 03:09:04,213 - INFO -   ✓ Fully Scraped: hugohe3 / ppt-master
+2026-04-25 03:09:15,055 - INFO -   ✓ Fully Scraped: onyx-dot-app / onyx
+2026-04-25 03:09:27,856 - INFO -   ✓ Fully Scraped: hacksider / Deep-Live-Cam
+2026-04-25 03:09:28,863 - INFO - Scraping completed! Total repositories scraped: 41
+2026-04-25 03:09:28,922 - INFO - Data saved to github_trending.csv (41 rows)
+2026-04-25 03:09:28,925 - INFO - Scraping process completed successfully!
+2026-04-25 03:09:29,521 - INFO - WebDriver closed
+2026-04-25 03:11:39,369 - INFO - ============================================================
+2026-04-25 03:11:39,369 - INFO - GitHub Trending Repository Scraper Started
+2026-04-25 03:11:39,369 - INFO - ============================================================
+2026-04-25 03:11:41,693 - INFO - WebDriver initialized successfully (Headless: True)
+2026-04-25 03:11:41,693 - INFO - Scraping page 1: https://github.com/trending?since=daily
+2026-04-25 03:11:45,245 - INFO - Found 12 repositories on page 1
+2026-04-25 03:11:47,831 - INFO -   ✓ Fully Scraped: Alishahryar1 / free-claude-code
+2026-04-25 03:11:51,221 - INFO -   ✓ Fully Scraped: huggingface / ml-intern
+2026-04-25 03:11:56,111 - INFO -   ✓ Fully Scraped: google / osv-scanner
+2026-04-25 03:11:59,403 - INFO -   ✓ Fully Scraped: Z4nzu / hackingtool
+2026-04-25 03:12:05,053 - INFO -   ✓ Fully Scraped: zilliztech / claude-context
+2026-04-25 03:12:10,715 - INFO -   ✓ Fully Scraped: open-metadata / OpenMetadata
+2026-04-25 03:12:14,129 - INFO -   ✓ Fully Scraped: PostHog / posthog
+2026-04-25 03:12:17,891 - INFO -   ✓ Fully Scraped: dani-garcia / vaultwarden
+2026-04-25 03:12:21,829 - INFO -   ✓ Fully Scraped: Anil-matcha / Open-Generative-AI
+2026-04-25 03:12:24,930 - INFO -   ✓ Fully Scraped: codecrafters-io / build-your-own-x
+2026-04-25 03:12:28,649 - INFO -   ✓ Fully Scraped: deepseek-ai / DeepEP
+2026-04-25 03:12:31,787 - INFO -   ✓ Fully Scraped: microsoft / typescript-go
+2026-04-25 03:12:35,793 - INFO - Scraping page 2: https://github.com/trending?since=weekly
+2026-04-25 03:12:39,114 - INFO - Found 15 repositories on page 2
+2026-04-25 03:12:41,268 - INFO -   ✓ Fully Scraped: forrestchang / andrej-karpathy-skills
+2026-04-25 03:12:44,216 - INFO -   ✓ Fully Scraped: SimoneAvogadro / android-reverse-engineering-skill
+2026-04-25 03:12:52,136 - INFO -   ✓ Fully Scraped: lsdefine / GenericAgent
+2026-04-25 03:12:55,992 - INFO -   ✓ Fully Scraped: EvoMap / evolver
+2026-04-25 03:12:59,494 - INFO -   ✓ Fully Scraped: openai / openai-agents-python
+2026-04-25 03:13:06,742 - INFO -   ✓ Fully Scraped: Tracer-Cloud / opensre
+2026-04-25 03:13:10,263 - INFO -   ✓ Fully Scraped: multica-ai / multica
+2026-04-25 03:13:13,456 - INFO -   ✓ Fully Scraped: NousResearch / hermes-agent
+2026-04-25 03:13:17,127 - INFO -   ✓ Fully Scraped: thedotmack / claude-mem
+2026-04-25 03:13:20,716 - INFO -   ✓ Fully Scraped: mksglu / context-mode
+2026-04-25 03:13:23,819 - INFO -   ✓ Fully Scraped: deepseek-ai / DeepGEMM
+2026-04-25 03:13:27,312 - INFO -   ✓ Fully Scraped: jamiepine / voicebox
+2026-04-25 03:13:36,091 - INFO -   ✓ Fully Scraped: Lordog / dive-into-llms
+2026-04-25 03:13:40,098 - INFO - Scraping page 3: https://github.com/trending?since=monthly
+2026-04-25 03:13:43,601 - INFO - Found 19 repositories on page 3
+2026-04-25 03:13:46,654 - INFO -   ✓ Fully Scraped: luongnv89 / claude-howto
+2026-04-25 03:13:50,050 - INFO -   ✓ Fully Scraped: Yeachan-Heo / oh-my-codex
+2026-04-25 03:13:54,737 - INFO -   ✓ Fully Scraped: siddharthvaddem / openscreen
+2026-04-25 03:13:58,739 - INFO -   ✓ Fully Scraped: shiyu-coder / Kronos
+2026-04-25 03:14:06,268 - INFO -   ✓ Fully Scraped: HKUDS / DeepTutor
+2026-04-25 03:14:10,297 - INFO -   ✓ Fully Scraped: Fincept-Corporation / FinceptTerminal
+2026-04-25 03:14:16,811 - INFO -   ✓ Fully Scraped: google-ai-edge / gallery
+2026-04-25 03:14:20,308 - INFO -   ✓ Fully Scraped: coleam00 / Archon
+2026-04-25 03:14:27,530 - INFO -   ✓ Fully Scraped: microsoft / VibeVoice
+2026-04-25 03:14:30,842 - INFO -   ✓ Fully Scraped: microsoft / markitdown
+2026-04-25 03:14:34,323 - INFO -   ✓ Fully Scraped: google-ai-edge / LiteRT-LM
+2026-04-25 03:14:37,422 - INFO -   ✓ Fully Scraped: google-research / timesfm
+2026-04-25 03:14:40,712 - INFO -   ✓ Fully Scraped: rtk-ai / rtk
+2026-04-25 03:14:53,257 - INFO -   ✓ Fully Scraped: hugohe3 / ppt-master
+2026-04-25 03:15:10,913 - INFO -   ✓ Fully Scraped: onyx-dot-app / onyx
+2026-04-25 03:15:34,089 - INFO -   ✓ Fully Scraped: hacksider / Deep-Live-Cam
+2026-04-25 03:15:35,092 - INFO - Scraping completed! Total repositories scraped: 41
+2026-04-25 03:15:35,269 - INFO - Data saved to github_trending.csv (41 rows)
+2026-04-25 03:15:35,277 - INFO - Scraping process completed successfully!
+2026-04-25 03:15:36,301 - INFO - WebDriver closed
+2026-04-25 03:17:35,718 - INFO - ============================================================
+2026-04-25 03:17:35,718 - INFO - GitHub Trending Repository Scraper Started
+2026-04-25 03:17:35,718 - INFO - ============================================================
+2026-04-25 03:17:38,066 - INFO - WebDriver initialized successfully (Headless: True)
+2026-04-25 03:17:38,066 - INFO - Scraping page 1: https://github.com/trending?since=daily
+2026-04-25 03:17:41,832 - INFO - Found 12 repositories on page 1
+2026-04-25 03:17:44,393 - INFO -   ✓ Fully Scraped: Alishahryar1 / free-claude-code
+2026-04-25 03:17:47,835 - INFO -   ✓ Fully Scraped: huggingface / ml-intern
+2026-04-25 03:17:52,813 - INFO -   ✓ Fully Scraped: google / osv-scanner
+2026-04-25 03:17:56,011 - INFO -   ✓ Fully Scraped: Z4nzu / hackingtool
+2026-04-25 03:18:01,498 - INFO -   ✓ Fully Scraped: zilliztech / claude-context
+2026-04-25 03:18:07,937 - INFO -   ✓ Fully Scraped: open-metadata / OpenMetadata
+2026-04-25 03:18:11,181 - INFO -   ✓ Fully Scraped: PostHog / posthog
+2026-04-25 03:18:14,579 - INFO -   ✓ Fully Scraped: dani-garcia / vaultwarden
+2026-04-25 03:18:19,421 - INFO -   ✓ Fully Scraped: Anil-matcha / Open-Generative-AI
+2026-04-25 03:18:22,547 - INFO -   ✓ Fully Scraped: codecrafters-io / build-your-own-x
+2026-04-25 03:18:26,367 - INFO -   ✓ Fully Scraped: deepseek-ai / DeepEP
+2026-04-25 03:18:29,436 - INFO -   ✓ Fully Scraped: microsoft / typescript-go
+2026-04-25 03:18:33,443 - INFO - Scraping page 2: https://github.com/trending?since=weekly
+2026-04-25 03:18:36,817 - INFO - Found 15 repositories on page 2
+2026-04-25 03:18:38,885 - INFO -   ✓ Fully Scraped: forrestchang / andrej-karpathy-skills
+2026-04-25 03:18:41,720 - INFO -   ✓ Fully Scraped: SimoneAvogadro / android-reverse-engineering-skill
+2026-04-25 03:18:49,135 - INFO -   ✓ Fully Scraped: lsdefine / GenericAgent
+2026-04-25 03:18:52,778 - INFO -   ✓ Fully Scraped: EvoMap / evolver
+2026-04-25 03:18:56,054 - INFO -   ✓ Fully Scraped: openai / openai-agents-python
+2026-04-25 03:19:02,068 - INFO -   ✓ Fully Scraped: Tracer-Cloud / opensre
+2026-04-25 03:19:05,637 - INFO -   ✓ Fully Scraped: multica-ai / multica
+2026-04-25 03:19:09,040 - INFO -   ✓ Fully Scraped: NousResearch / hermes-agent
+2026-04-25 03:19:12,816 - INFO -   ✓ Fully Scraped: thedotmack / claude-mem
+2026-04-25 03:19:16,613 - INFO -   ✓ Fully Scraped: mksglu / context-mode
+2026-04-25 03:19:19,703 - INFO -   ✓ Fully Scraped: deepseek-ai / DeepGEMM
+2026-04-25 03:19:23,001 - INFO -   ✓ Fully Scraped: jamiepine / voicebox
+2026-04-25 03:19:32,124 - INFO -   ✓ Fully Scraped: Lordog / dive-into-llms
+2026-04-25 03:19:36,134 - INFO - Scraping page 3: https://github.com/trending?since=monthly
+2026-04-25 03:19:39,737 - INFO - Found 19 repositories on page 3
+2026-04-25 03:19:42,671 - INFO -   ✓ Fully Scraped: luongnv89 / claude-howto
+2026-04-25 03:19:45,715 - INFO -   ✓ Fully Scraped: Yeachan-Heo / oh-my-codex
+2026-04-25 03:19:50,550 - INFO -   ✓ Fully Scraped: siddharthvaddem / openscreen
+2026-04-25 03:19:54,897 - INFO -   ✓ Fully Scraped: shiyu-coder / Kronos
+2026-04-25 03:20:02,101 - INFO -   ✓ Fully Scraped: HKUDS / DeepTutor
+2026-04-25 03:20:05,848 - INFO -   ✓ Fully Scraped: Fincept-Corporation / FinceptTerminal
+2026-04-25 03:20:11,541 - INFO -   ✓ Fully Scraped: google-ai-edge / gallery
+2026-04-25 03:20:14,945 - INFO -   ✓ Fully Scraped: coleam00 / Archon
+2026-04-25 03:20:24,336 - INFO -   ✓ Fully Scraped: microsoft / VibeVoice
+2026-04-25 03:20:27,435 - INFO -   ✓ Fully Scraped: microsoft / markitdown
+2026-04-25 03:20:30,805 - INFO -   ✓ Fully Scraped: google-ai-edge / LiteRT-LM
+2026-04-25 03:20:34,055 - INFO -   ✓ Fully Scraped: google-research / timesfm
+2026-04-25 03:20:37,457 - INFO -   ✓ Fully Scraped: rtk-ai / rtk
+2026-04-25 03:20:52,672 - INFO -   ✓ Fully Scraped: hugohe3 / ppt-master
+2026-04-25 03:21:11,214 - INFO -   ✓ Fully Scraped: onyx-dot-app / onyx
+2026-04-25 03:21:42,377 - INFO -   ✓ Fully Scraped: hacksider / Deep-Live-Cam
+2026-04-25 03:21:43,380 - INFO - Scraping completed! Total repositories scraped: 41
+2026-04-25 03:21:43,461 - INFO - Data saved to github_trending.csv (41 rows)
+2026-04-25 03:21:43,464 - INFO - Scraping process completed successfully!
+2026-04-25 03:21:44,221 - INFO - WebDriver closed
